@@ -14,7 +14,7 @@ public class LojinhaApp {
 
         // Aula Encapsulamento
         meuProduto.setNome("Play Statio 4");
-        meuProduto.setValor(4999.99);
+        meuProduto.setValor(2999.99);
         meuProduto.setMarca("Sonny");
         meuProduto.setTamanho("Medio");
         meuProduto.setItensInclusos("2 Controles e 3 Jogos");
