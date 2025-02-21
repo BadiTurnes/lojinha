@@ -1,12 +1,6 @@
 package br.com.lojinha.pojo;
 
 public class Produto {
-    // Aula atributos
-    //public String nome;
-    //public String marca;
-    //public double valor;
-    //public String tamanho;
-    //public String itensInclusos;
 
     // Aula Encapsulamento
     private String nome;
